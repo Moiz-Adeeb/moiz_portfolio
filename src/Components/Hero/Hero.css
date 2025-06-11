@@ -49,11 +49,19 @@
 }
 
 .hero-resume {
+  background-color: black;
+  color: white;
+  font-size: 24px;
   padding: 25px 75px;
   border-radius: 50px;
   border: 2px solid white;
   cursor: pointer;
   transition: 0.5s;
+}
+
+.hero-resume a {
+  text-decoration: none;
+  color: white;
 }
 
 .hero-connect:hover {
