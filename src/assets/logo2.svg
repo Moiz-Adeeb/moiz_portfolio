@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="109" height="57" viewBox="0 0 109 57" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="a8ab405c-0e38-46d5-bf39-79ef4e597152"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="9cf0cfff-ffc3-4280-a809-1994a1525cf3"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="ea423de7-976b-4237-8eaa-73f23cd63e55"  >
+<linearGradient id="SVGID_paint0_linear_2160_23_3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="851.318" y1="47.553" x2="756.751" y2="339.402">
+<stop offset="0%" style="stop-color:rgb(223,137,8);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(180,21,255);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint0_linear_2160_23_3); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-113.24, -35.79)" d="M 0 61.1395 C 0 55.1999 5.16729 50.5816 11.0696 51.2459 L 187.039 71.052 C 209.597 73.591 228.703 54.5844 226.282 32.0133 C 223.76 8.50255 199.379 -6.00841 177.511 2.98631 L 13.7433 70.3471 C 7.19098 73.0422 0 68.2245 0 61.1395 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" style="" id="283afcea-d673-4d2c-97b1-4fe8c1e1d5f7"  >
+		<text xml:space="preserve" font-family="Raleway" font-size="58" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-64.93" y="18.22" >Moiz</tspan></text>
+</g>
+</svg>
