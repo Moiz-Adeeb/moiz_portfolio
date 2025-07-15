@@ -46,6 +46,7 @@
   background: linear-gradient(290deg, #940060 20%, #f79eff 100%);
   cursor: pointer;
   transition: 0.07 5s;
+  text-align: center;
 }
 
 .hero-resume {
